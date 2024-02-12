@@ -2,7 +2,9 @@
 
 started off by using the code from a previouse in class assignment (15-Mapping/1/10-Stu_GeoJson)
 
+
 structure for css was found via chat.openai.com
+
 .info.legend {
   background-color: rgba(255, 255, 255, 0.589);
   border: 1px solid #ffbb00;
@@ -27,6 +29,7 @@ structure for css was found via chat.openai.com
 }
 
 color codes were found on https://www.color-hex.com/color-wheel/
+
   // Function to determine marker color based on depth
   function markerColor(depth) {
 
